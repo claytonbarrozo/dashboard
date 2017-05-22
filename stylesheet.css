@@ -1,0 +1,281 @@
+/* cor do website*/
+body {
+    background: white;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+
+
+}
+
+/* titulo */
+#header {
+background: #113388;
+text-align: center;     
+margin: 8px auto;    
+border: 2px solid black;
+font-size: x-large;
+color: white;
+
+}
+
+/* Retangulo da esquerda*/
+
+#left {
+
+    line-height:60px;
+    background-color: #0066CC;
+    height:700px;
+    width: 220px;
+    float:left;
+    padding:8px; 
+    border: none;
+    margin: 3px 3px 8px 3px; 
+    
+
+
+}
+
+#left p {
+text-align: center;
+color: white;
+font-size: large;
+
+}
+
+#left ul li{
+	text-align: center; 
+	list-style: none;
+	float: left;
+	width: 150px;
+	height: 50px;
+	margin: auto;
+	border: none; 
+	line-height: 20px; 
+}
+#left ul li a {
+text-align: center;
+text-decoration: none;  
+color: white;
+
+}
+#left ul li :hover{
+text-decoration: none;     
+color: green;     
+background-color: white; 
+display: block;
+}
+
+/* Section da direita*/
+#right {
+
+    line-height:60px;
+    background-color: #0066CC;
+    height:700px;
+    width: 200px;
+    float:right;
+    padding:8px; 
+    border: none;
+    margin: 3px auto 8px 3px; 
+    
+
+
+}
+
+#right p {
+text-align: center;
+color: white;
+font-size: large;
+
+}
+
+#right ul li{
+	text-align: center; 
+	list-style: none;
+	float: left;
+    width: 120px;
+    height: 50px;
+    margin: auto;
+    border: none; 
+    line-height: 20px; 
+}
+#right ul li a {
+position: relative;
+text-decoration: none;  
+color: white;
+
+}
+#right ul li :hover{
+text-decoration: none;     
+color: green;     
+background-color: white; 
+display: block;
+}
+
+
+.section {
+  margin: 10px 300px 10px 300px;
+  height: 700px;
+  padding: 40px;
+  border: 2px solid black; 
+  background-color: white ;
+
+
+}
+
+
+
+
+
+/*Roster*/
+.roster {
+    position: relative;
+    text-align: center; 
+    list-style: none;
+    float: left;
+    width: 150px;
+    height: 75px;
+    margin: 3px 3px;
+    border: 3px solid black; 
+    line-height: 75px; 
+    
+	 }
+/*Dentro do quadrados*/
+.roster a{     
+text-decoration: none; 
+background-color: #0000FF;    
+color: white;     
+display: block;
+margin: 0px 0px 0px 0px;
+
+}
+
+/*Hover do quadrados*/
+.roster :hover {     
+text-decoration: none;     
+color: green;     
+background-color: white; 
+display: block;
+}
+
+
+/*Program*/
+
+.Program {
+    position: relative;
+    text-align: center; 
+    list-style: none;
+    float: left;
+    width: 150px;
+    height: 75px;
+    margin: 3px 3px;
+    border: 3px solid black; 
+    line-height: 75px; 
+    
+	 }
+/*Dentro do quadrados*/
+.Program a{     
+text-decoration: none; 
+background-color: #00CCFF;    
+color: white;     
+display: block;
+margin: 0px 0px 0px 0px;
+
+}
+
+/*Hover do quadrados*/
+.Program :hover {     
+text-decoration: none;     
+color: green;     
+background-color: white; 
+display: block;
+
+
+
+} 
+
+/*Report*/
+
+.Report{
+    position: relative;
+    text-align: center; 
+    list-style: none;
+    float: left;
+    width: 150px;
+    height: 75px;
+    margin: 3px 3px;
+    border: 3px solid black; 
+    line-height: 75px; 
+    
+	 }
+/*Dentro do quadrados*/
+.Report a{     
+text-decoration: none; 
+background-color: #0099FF;    
+color: white;     
+display: block;
+margin: 0px 0px 0px 0px;
+
+}
+
+/*Hover do quadrados*/
+.Report :hover {     
+text-decoration: none;     
+color: green;     
+background-color: white; 
+display: block;
+
+} 
+
+/*Departamento*/
+.Department {
+    position: relative;
+    text-align: center; 
+    list-style: none;
+    float: left;
+    width: 150px;
+    height: 75px;
+    margin: 3px 3px;
+    border: 3px solid black; 
+    line-height: 75px; 
+    
+	 }
+/*Dentro do quadrados*/
+.Department a{     
+text-decoration: none; 
+background-color: #0066FF;    
+color: white;     
+display: block;
+margin: 0px 0px 0px 0px;
+
+}
+
+/*Hover do quadrados*/
+.Department :hover {     
+text-decoration: none;     
+color: green;     
+background-color: white; 
+display: block;
+
+
+
+} 
+
+
+#footer {
+    color:blue;
+    clear:both;
+    text-align:center;
+    padding:5px;	 	 
+}
+
+
+} 
+
+
+#countries {
+   
+position: relative;
+float: left;
+	 	 
+}
+    
